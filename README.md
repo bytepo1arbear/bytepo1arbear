@@ -56,8 +56,8 @@ I am a passionate **Cybersecurity Enthusiast** dedicated to ethical hacking, pen
 
 ## 📫 Let's Connect!
 🌐 [LinkedIn](https://www.linkedin.com/in/jackdiamond09/)  
-🐦 [Twitter](https://x.com/Po1ar__)  
-✍️ [Medium Blog](https://medium.com/@yourusername)  
+🐦 [Twitter](https://x.com/Po1ar__)   
+💻 [GitHub Pages Blog](https://bytepo1arbear.github.io/cybersecurityblog/)
 
 💬 **Feel free to reach out for cybersecurity discussions, collaborations, or learning opportunities!**
 
