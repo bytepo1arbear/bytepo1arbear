@@ -2,11 +2,11 @@
 Welcome to My Cybersecurity Hub 👋
 
 ## 🔥 About Me
-I am a passionate **Cybersecurity Enthusiast** dedicated to ethical hacking, penetration testing, and digital forensics. My mission is to secure systems and networks from cyber threats while continuously learning new security techniques and skills. 
+I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive blue team for a role as a SOC L1 analyst. My mission is to secure systems and networks from cyber threats while continuously learning new security techniques and skills. 
 
-🔹 **Cybersecurity | Ethical Hacking | Digital Forensics**  
-🔹 **Security Researcher | Blue Team | Red Team**  
 🔹 **Protecting the digital world, one vulnerability at a time!**  
+🔹 **Cybersecurity | Blue Team | Red Team**   
+
 
 ---
 
@@ -45,18 +45,15 @@ I am a passionate **Cybersecurity Enthusiast** dedicated to ethical hacking, pen
 ---
 
 ## 🎓 Certifications & Learning 📜
-📖 **CompTIA A+** *(In Progress)*  
-📖 **CompTIA Network+** *(In Progress)*  
-📖 **CompTIA Security+** *(In Progress)*  
-📖 **Certified Ethical Hacker (CEH)** *(Planned)*  
-📖 **Offensive Security Certified Professional (OSCP)** *(Future Goal)*  
-📖 **AWS Certified Security – Specialty** *(Planned)*  
+📖 **THM CyberSecurity 101** *(Completed)*  
+📖 **CompTIA Network+** *(Completed)*  
+📖 **CompTIA Security+** *(Completed)*  
+📖 **THM SOC L1 Analyst** *(In Progress)*
 
 ---
 
 ## 📫 Let's Connect!
-🌐 [LinkedIn](https://www.linkedin.com/in/jackdiamond09/)  
-🐦 [Twitter](https://x.com/Po1ar__)   
+🌐 [LinkedIn](https://www.linkedin.com/in/jackdiamond09/)   
 💻 [GitHub Pages Blog](https://bytepo1arbear.github.io/cybersecurityblog/)
 
 💬 **Feel free to reach out for cybersecurity discussions, collaborations, or learning opportunities!**
