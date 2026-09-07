@@ -51,7 +51,10 @@ I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive
 📖 **THM SOC L1 Analyst** *(In Progress)*
 
 ---
-
+## TryHackMe Badge Showcase
+**1st in Diamond League**
+https://tryhackme.com/Po1ar/badges/diamond-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=67ba7f6d2366107da363a2ac
+---
 ## 📫 Let's Connect!
 🌐 [LinkedIn](https://www.linkedin.com/in/jackdiamond09/)   
 💻 [GitHub Pages Blog](https://bytepo1arbear.github.io/cybersecurityblog/)
