@@ -53,10 +53,10 @@ I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive
 ---
 ## TryHackMe Badge Showcase
 **1st in Diamond League**
-[![TryHackMe Official Badge](https://tryhackme.com)](https://tryhackme.com/p/Po1ar)
+[![TryHackMe Stats Card](https://vercel.app)](https://tryhackme.com/p/Po1ar)
 ---
 ## 📫 Let's Connect!
-🌐 [LinkedIn](https://www.linkedin.com/in/jackdiamond09/)   
+🌐 [LinkedIn](https://www.linkedin.com/in/jackdiamond09/)
 💻 [GitHub Pages Blog](https://bytepo1arbear.github.io/cybersecurityblog/)
 
 💬 **Feel free to reach out for cybersecurity discussions, collaborations, or learning opportunities!**
