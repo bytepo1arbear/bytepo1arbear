@@ -54,8 +54,8 @@ I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive
 ## TryHackMe Badge Showcase
 
 <div align="center">
-  <a href="https://tryhackme.com/p/bytepo1arbear">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/bytepo1arbear.png" alt="TryHackMe Profile Badge" width="400">
+  <a href="https://tryhackme.com/p/Po1ar">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Po1ar.png" alt="TryHackMe Profile Badge" width="400">
   </a>
 </div>
 
