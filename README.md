@@ -53,7 +53,9 @@ I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive
 ---
 ## TryHackMe Badge Showcase
 
-[![TryHackMe Stats](https://tryhackme-badge.vercel.app/api/badge/Po1ar)](https://tryhackme.com/p/Po1ar)
+<a href="https://tryhackme.com/p/Po1ar">
+  <img src="https://tryhackme-badge.vercel.app/api/badge/Po1ar" alt="TryHackMe Stats" />
+</a>
 
 ---
 ## 📫 Let's Connect!
