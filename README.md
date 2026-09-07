@@ -53,11 +53,11 @@ I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive
 ---
 ## TryHackMe Badge Showcase
 
-<p align="left">
-  <img src="https://shields.io" alt="THM User">
-  <img src="https://tryhackme.com" alt="TryHackMe Official Badge">
-</p>
-[![TryHackMe Stats Card](https://vercel.app)](https://tryhackme.com)
+<div align="center">
+  <a href="https://tryhackme.com/p/bytepo1arbear">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/bytepo1arbear.png" alt="TryHackMe Profile Badge" width="400">
+  </a>
+</div>
 
 ---
 ## 📫 Let's Connect!
