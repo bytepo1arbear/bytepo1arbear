@@ -48,14 +48,14 @@ I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive
 
 | 📖 **THM CyberSecurity 101** <br> *(Completed)* | 📖 **CompTIA Network+** <br> *(Completed)* | 📖 **CompTIA Security+** <br> *(Completed)* | 📖 **THM SAL1** <br> *(In Progress)* |
 | :---: | :---: | :---: | :---: |
-| <a href="https://tryhackme.com/p/Po1ar" target="_blank"><img src="/assets/certifications/SEC1.png" alt="SEC1 CERT" width="120" /></a> | <a href="https://www.credly.com/users/jackthepolarbear" target="_blank"><img src="/assets/certifications/Network+-png.png" alt="Net+ Cert Stats" width="120" /></a> | <a href="https://www.credly.com/users/jackthepolarbear" target="_blank"><img src="/assets/certifications/Security+-png.png" alt="Security+ Cert Stats" width="120" /></a> | <img src="https://assets.tryhackme.com/room-badges/cae3cd68192629f6ffb717deb4f11147.png" alt="In Progress" width="120" transparency="0.5"/> |
+| <a href="https://tryhackme.com/p/Po1ar" target="_blank"><img src="/assets/certifications/SEC1.png" alt="SEC1 CERT" width="150" /></a> | <a href="https://www.credly.com/users/jackthepolarbear" target="_blank"><img src="/assets/certifications/Network+-png.png" alt="Net+ Cert Stats" width="150" /></a> | <a href="https://www.credly.com/users/jackthepolarbear" target="_blank"><img src="/assets/certifications/Security+-png.png" alt="Security+ Cert Stats" width="150" /></a> | <img src="" alt="In Progress" width="150" transparency="0.5"/> |
 
 ---
 ## TryHackMe Badge Showcase
 
-<a href="https://tryhackme.com/p/Po1ar">
-  <img src="https://assets.tryhackme.com/room-badges/cae3cd68192629f6ffb717deb4f11147.png" alt="TryHackMe Stats" width="35%"/>
-</a>
+| 📖 **1st in Diamond League** <br> | 📖 **1 year streak** <br> *(Completed)* | 📖 **SOC L1 Path** <br> |
+| :---: | :---: | :---: |
+| <a href="https://tryhackme.com/p/Po1ar" target="_blank"><img src="https://assets.tryhackme.com/room-badges/cae3cd68192629f6ffb717deb4f11147.png" alt="Diamond League" width="150" /></a> | <a href="https://www.credly.com/users/jackthepolarbear" target="_blank"><img src="/assets/certifications/Network+-png.png" alt="Net+ Cert Stats" width="150" /></a> | <a href="https://www.credly.com/users/jackthepolarbear" target="_blank"><img src="/assets/certifications/Security+-png.png" alt="Security+ Cert Stats" width="150" /></a> | <img src="" alt="In Progress" width="150" transparency="0.5"/> |
 
 ---
 ## 📫 Let's Connect!
