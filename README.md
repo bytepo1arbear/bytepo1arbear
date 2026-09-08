@@ -46,9 +46,18 @@ I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive
 
 ## 🎓 Certifications & Learning 📜
 📖 **THM CyberSecurity 101** *(Completed)*  
+<a href="https://tryhackme.com/p/Po1ar">
+  <img src="/assets/certifications/SEC1.png" alt="SEC1 CERT" />
+</a>
 📖 **CompTIA Network+** *(Completed)*  
+<a href="https://www.credly.com/users/jackthepolarbear">
+  <img src="/assets/certifications/Network+-png.png" alt="Net+ Cert Stats" />
+</a>
 📖 **CompTIA Security+** *(Completed)*  
-📖 **THM SOC L1 Analyst** *(In Progress)*
+<a href="https://www.credly.com/users/jackthepolarbear">
+  <img src="/assets/certifications/Security+-png.png" alt="Net+ Cert Stats" />
+</a>
+📖 **THM SAL1 Certification** *(In Progress)*
 
 ---
 ## TryHackMe Badge Showcase
