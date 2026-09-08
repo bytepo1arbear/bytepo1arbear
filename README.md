@@ -47,15 +47,15 @@ I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive
 ## 🎓 Certifications & Learning 📜
 📖 **THM CyberSecurity 101** *(Completed)*  
 <a href="https://tryhackme.com/p/Po1ar">
-  <img src="/assets/certifications/SEC1.png" alt="SEC1 CERT" />
+  <img src="/assets/certifications/SEC1.png" alt="SEC1 CERT" width="25%" />
 </a>
 📖 **CompTIA Network+** *(Completed)*  
 <a href="https://www.credly.com/users/jackthepolarbear">
-  <img src="/assets/certifications/Network+-png.png" alt="Net+ Cert Stats" />
+  <img src="/assets/certifications/Network+-png.png" alt="Net+ Cert Stats" width="25%" />
 </a>
 📖 **CompTIA Security+** *(Completed)*  
 <a href="https://www.credly.com/users/jackthepolarbear">
-  <img src="/assets/certifications/Security+-png.png" alt="Net+ Cert Stats" />
+  <img src="/assets/certifications/Security+-png.png" alt="Net+ Cert Stats" width="25%" />
 </a>
 📖 **THM SAL1 Certification** *(In Progress)*
 
@@ -63,7 +63,7 @@ I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive
 ## TryHackMe Badge Showcase
 
 <a href="https://tryhackme.com/p/Po1ar">
-  <img src="https://assets.tryhackme.com/room-badges/cae3cd68192629f6ffb717deb4f11147.png" alt="TryHackMe Stats" />
+  <img src="https://assets.tryhackme.com/room-badges/cae3cd68192629f6ffb717deb4f11147.png" alt="TryHackMe Stats" width="35%"/>
 </a>
 
 ---
