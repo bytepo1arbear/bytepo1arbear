@@ -55,7 +55,7 @@ I am a passionate **Cybersecurity Enthusiast** studying cyber security defensive
 
 | 🏆 **1st in Diamond League** <br> | 🏆 **1 year streak** <br> *(Completed)* | 🏆 **SOC L1 Path** <br> |
 | :---: | :---: | :---: |
-| <a href="https://tryhackme.com/p/Po1ar" target="_blank"><img src="https://assets.tryhackme.com/room-badges/cae3cd68192629f6ffb717deb4f11147.png" alt="Diamond League" width="350" /></a> | <a href="https://tryhackme.com/p/Po1ar" target="_blank"><img src="https://assets.tryhackme.com/room-badges/4bc70c43181f1f383abc8a945c5e4c6d.png" alt="1 year streak" width="350" /></a> | <a href="https://tryhackme.com/p/Po1ar" target="_blank"><img src="https://assets.tryhackme.com/room-badges/a49fe7ac085b65a21009b83c398d24e2.png" alt="Security Tools" width="350" /></a> |
+| <a href="https://tryhackme.com/p/Po1ar" target="_blank"><img src="https://assets.tryhackme.com/room-badges/cae3cd68192629f6ffb717deb4f11147.png" alt="Diamond League" width="350" /></a> | <a href="https://tryhackme.com/p/Po1ar" target="_blank"><img src="https://assets.tryhackme.com/img/badges/streak365.png" alt="1 year+ streak" width="350" /></a> | <a href="https://tryhackme.com/p/Po1ar" target="_blank"><img src="https://assets.tryhackme.com/room-badges/a49fe7ac085b65a21009b83c398d24e2.png" alt="Security Tools" width="350" /></a> |
 
 ---
 ## 📫 Let's Connect!
